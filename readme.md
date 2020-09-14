@@ -1,4 +1,6 @@
-# Warbler Solution
+# Warbler
+
+Warbler is a Twitter clone, that allows users to create an account and create, delete, modify, and share posts.
 
 ## Getting started
 
